@@ -2,6 +2,8 @@
 
 A Chrome Extension to add small touches to make Expensify easier.
 
+[🌎 Available for download on the Chrome Store](https://chrome.google.com/webstore/detail/expensify-power-user/hdbooagpfopbbkflkenlmekfmcbdfifd?hl=en-US&gl=US)
+
 ## Dropdowns
 Select menus are hard to use. This converts them to autocompleting text fields.
 
@@ -9,5 +11,5 @@ Select menus are hard to use. This converts them to autocompleting text fields.
 
 ## Roadmap
 - [x] Replace dropdowns with autocompletes 
-- [] Add autocomplete history
-- [] Add Keyboard Shortcuts
+- [ ] Add autocomplete history
+- [ ] Add Keyboard Shortcuts
