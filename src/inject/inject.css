@@ -1,0 +1,6 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+.dialog .form select[name=category] ~ input[type=text], .dialog .form select[name=tag] ~ input[type=text] {
+	width: 390px;
+}
