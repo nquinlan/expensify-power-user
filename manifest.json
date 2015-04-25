@@ -5,8 +5,6 @@
   "description": "An extension that adds small touches to make expensify easier.",
   "homepage_url": "https://expensify.com",
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
   "default_locale": "en",
