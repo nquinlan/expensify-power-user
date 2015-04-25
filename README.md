@@ -1,4 +1,4 @@
-# Expensify Power User ![](https://raw.githubusercontent.com/nquinlan/expensify-power-user/master/icons/icons.png)
+# Expensify Power User ![](https://raw.githubusercontent.com/nquinlan/expensify-power-user/master/icons/icon.png)
 
 A Chrome Extension to add small touches to make Expensify easier.
 
